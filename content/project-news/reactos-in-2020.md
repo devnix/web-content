@@ -89,7 +89,7 @@ Hermès has also found that some aspects of the implementation of ReactOS' exist
 
 Good old i386 still remains as our main platform, but the work on porting ReactOS to other architectures slowly goes on:
 
-* AMD64: most of the code was merged to master, so now nightly builds can finally boot to the 1st stage setup screen on some hardware. The graphical interface still needs fixes. The porting is being done by Timo Kreuzer.
+* AMD64: most of the code was merged to master, so now Latest Builds can finally boot to the 1st stage setup screen on some hardware. The graphical interface still needs fixes. The porting is being done by Timo Kreuzer.
 * XBOX: the Original XBOX port of ReactOS is revived, and able to boot to desktop. The work is mostly done by Stanislav Motylkov.
 * PC98: Dmitry Borisov (disean) started a [NEC PC-98](https://en.wikipedia.org/wiki/PC-9800_series) port of ReactOS, which is a i386 flavor but with some incompatibilities.
 
